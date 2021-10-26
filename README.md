@@ -238,6 +238,6 @@ There is no joint venture, partnership, employment or agency relationship create
 You hereby waive any and all defenses you may have based on the electronic form of these Terms and Conditions and the lack of signing by the parties hereto to execute these Terms and Conditions.
 CONTACT US
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
-Jarvis Technoblade – Code Scapes
-Email Address – jarvis-technoblade@outlook.com
+# Jarvis Technoblade – Code Scapes
+# Email Address – jarvis-technoblade@outlook.com
 
