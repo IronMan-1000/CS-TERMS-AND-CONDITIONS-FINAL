@@ -1,5 +1,5 @@
 # CS-TERMS-AND-CONDITIONS
-App Terms and Conditions 
+# App Terms and Conditions 
 Last updated 26 October, 2021
 AGREEMENT TO TERMS
 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Jarvis Technoblade (“we,” “us” or “our”), concerning your access to and use of the CodeScapes website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
